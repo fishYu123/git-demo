@@ -7,5 +7,6 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git! hot test
-edit
+hello git! master test
+edit!
+git edit!
